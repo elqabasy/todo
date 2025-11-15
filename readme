@@ -1,4 +1,8 @@
 Learn:
+	HackingMechanisms:
+		* Caching Deception
+			+ see this: https://www.youtube.com/watch?v=mroq9eHFOIU
+		
 	CommandLineTools:
 		* latex
 			+ Idon't know what it is? but, you have to lean it for productivity
@@ -15,4 +19,5 @@ Learn:
 		* awk 
 			+ a powerfull pattern processing language, it will help you too match
 			
-		
+		* glow
+			+ a command line interpreter for markdown files	
